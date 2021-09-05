@@ -1,5 +1,7 @@
 # Dacon에 참가하며 진행했던 프로젝트입니다.
 
+### [NB viewer Link](https://nbviewer.jupyter.org/github/blindinterview/Blind_Dacon/blob/main/%EB%AA%85%EC%88%98%EC%98%B9%EA%B3%BC%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%8B%9C%EB%8C%80%20%EB%B0%B0%EB%8B%AC%20%EB%AC%B8%ED%99%94%20%EB%B6%84%EC%84%9D_210825.ipynb)
+
 ### Public에서 3등을 기록하였습니다.
 <img width="914" alt="public 3emd" src="https://user-images.githubusercontent.com/90144657/132131832-5020820b-6d54-437e-903b-7dd40d96e954.png">
 
