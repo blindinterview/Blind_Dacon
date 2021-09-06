@@ -13,30 +13,30 @@
 
 ### 데이터
 
-    Dacon
-        KT빅데이터플랫폼
-            dlvr_call.csv
-            popl.csv
-            StarupOrClosing_Shop_ver2.csv
-            StartupOrClosing_Region_ver2.csv
-        DS4C
-            COVID_19
+- Dacon
+    - KT빅데이터플랫폼
+            - dlvr_call.csv
+            - popl.csv
+            - StarupOrClosing_Shop_ver2.csv
+            - StartupOrClosing_Region_ver2.csv
+    - DS4C
+            - COVID_19
 
-    KT빅데이터플랫폼
-        주문지역 주거 특성
+- KT빅데이터플랫폼
+    - 주문지역 주거 특성
 
-    기타
-        서울 시군구 경계
-        공시지가
-        일반음식점
+- 기타
+    - 서울 시군구 경계
+    - 공시지가
+    - 일반음식점
 
 ### 주요 수행사항
 
-    기초 아이디어 제시
-    데이터 EDA & 전처리
-    코로나 영향력 파악 및 배달건수와의 상관관계 파악
-    공시지가 및 폐업수 동적시각화
-    파생변수를 이용한 시각화
-    배달건수, 거리, 배달시간 상관관계 분석
-    배달금액 시각화 및 창업 우선순위 지역 선정
+- 기초 아이디어 제시
+- 데이터 EDA & 전처리
+- 코로나 영향력 파악 및 배달건수와의 상관관계 파악
+- 공시지가 및 폐업수 동적시각화
+- 파생변수를 이용한 시각화
+- 배달건수, 거리, 배달시간 상관관계 분석
+- 배달금액 시각화 및 창업 우선순위 지역 선정
 
